@@ -1,0 +1,9 @@
+#!/bin/sh
+USER=sembagag:1nqR5h9jS6
+HOST=ftp.sembagagem.com.br:21
+HOST_DIR=/public_html
+LOCAL_DIR=./public
+
+hugo && lftp ftp://${USER}@${HOST} -e "mirror --parallel=10 --delete-first -R ${LOCAL_DIR} ${HOST_DIR} ; quit"
+
+exit 0
