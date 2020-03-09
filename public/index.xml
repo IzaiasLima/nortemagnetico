@@ -1,37 +1,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Izaias Moreira Lima</title>
-    <link>http://www.sembagagem.com.br/</link>
+    <link>http://www.nortemagnetico.com.br/</link>
     <description>Recent content on Izaias Moreira Lima</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-BR</language>
     <lastBuildDate>Wed, 05 Jul 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.sembagagem.com.br/" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.nortemagnetico.com.br/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Contato</title>
-      <link>http://www.sembagagem.com.br/contact/</link>
+      <link>http://www.nortemagnetico.com.br/contact/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sembagagem.com.br/contact/</guid>
+      <guid>http://www.nortemagnetico.com.br/contact/</guid>
       <description>Entre em contato pelos e-mails: izaiasmlima@gmail.com izaiaslima@yahoo.com.br </description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>http://www.sembagagem.com.br/post/</link>
+      <link>http://www.nortemagnetico.com.br/post/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sembagagem.com.br/post/</guid>
+      <guid>http://www.nortemagnetico.com.br/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sobre</title>
-      <link>http://www.sembagagem.com.br/about/</link>
+      <link>http://www.nortemagnetico.com.br/about/</link>
       <pubDate>Wed, 05 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://www.sembagagem.com.br/about/</guid>
+      <guid>http://www.nortemagnetico.com.br/about/</guid>
       <description>Formado em Ciências da Computação pela UNAMA, Belém (PA). Programador java, python e principais linguagens voltadas para Web. Pastor evangélico em Brasília (DF). </description>
     </item>
     
