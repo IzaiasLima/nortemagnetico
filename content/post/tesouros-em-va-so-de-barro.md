@@ -6,7 +6,6 @@ categories = ["Artigos"]
 menu = ""
 banner = "banners/featured-5.jpg"
 +++
-
 A Bíblia diz que temos um tesouro em vaso de barro, referindo-se ao fato de que o Espírito Santo habita em nós. Essa é uma das mais importantes diferenças entre o cristianismo e as outras religiões. Em nenhuma outra, o seu deus promete morar no ser humano. Porém é exatamente isso que Jesus garante aos seus discípulos. "Eu e meu Pai viremos fazer morada em vocês", promete Ele aos seus seguidores.
 <!--more-->
 

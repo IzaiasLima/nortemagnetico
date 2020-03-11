@@ -6,9 +6,7 @@ categories = ["Artigos"]
 menu = "main"
 banner = "banners/grace.png"
 +++
-
 Em certa ocasião, Irmão André, fundador de Portas Abertas, disse que Deus sempre o coloca diante de situações que o desafiam a viver na prática aquilo que prega. Posso discordar de muitas das coisas que Caio Fábio diz, mas em uma coisa estamos de acordo: a igreja transformou a graça de Deus em mero conceito teológico, em vez de incentivar que ela seja vivida e experimentada de forma prática e plena.
-
 <!--more-->
 
 ***Obs.: As menções ao filme "O Poder da Graça", no texto a seguir, foram feitas com cuidado para não caracterizar spoiller.***

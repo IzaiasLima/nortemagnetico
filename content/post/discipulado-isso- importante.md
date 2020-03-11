@@ -6,9 +6,7 @@ categories = ["Artigos"]
 menu = "" # "main"
 banner = "banners/kids-girl-pencil-drawing.png"
 +++
-
 Confundimos fazer discípulos com fazer prosélitos. O dicionário define prosélito como pessoa que foi atraída e se converteu. O proselitismo, que preferimos chamar de evangelismo, é o passo inicial para levar as pessoas a Cristo, mas deve ser praticado de acordo com os princípios da Palavra de Deus e seguido do discipulado. Discipulado  e evangelismo não podem ser confundidos um com o outro. O discipulado é tão importante que foi a última recomendação de Jesus, antes de subir ao céu.
-
 <!--more-->
 
 **Texto bíblico**

@@ -6,7 +6,6 @@ categories: ["Artigos"]
 menu: ""
 ---
 
-
 Talvez a morte que mais me abalou, depois da de minha mãe, tenha sido a do pastor Humberto. Nós havíamos servido na mesma igreja, mas ele estava morando em outra cidade quando acidentou-se. Quem tomou conhecimento dos detalhes do acidente reconhece que ele ter sobrevivido foi um milagre. No dia de seu aniversário, ele percebeu que a esposa estava preparando um "aniversário surpresa", então resolveu deixá-la mais à vontade e saiu. Um caminhão fechou sua moto e o acidente aconteceu. 
 
 Algumas escoriações, nada demais, foi o diagnóstico inicial. Depois, constatou-se a necessidade de uma cirurgia no joelho. Veio para Brasília. Sua irmã, com quem tinha rompido relações havia algum tempo, fez questão de hospedá-lo e cuidar de sua recuperação. Ter sobrevivido ao acidente pareceu-me um milagre necessário. Ele precisava de outro milagre: reconciliar-se com sua irmã. 
