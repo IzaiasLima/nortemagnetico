@@ -5,4 +5,4 @@ Este conteúdo está replicado, por enquanto nos outros domńios que uso:
 
 www.izaias.com.br
 www.sembagagem.com.br e 
-www.sembagagem.com.br
+www.izaias.dev 
