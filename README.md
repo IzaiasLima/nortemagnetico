@@ -1,6 +1,4 @@
-# Norte Magnético
-Este repositório contém as versões do conteúdo do site www.nortemagnetico.com.br.
-
-Este conteúdo está replicado, por enquanto, nos outros domínios que mantenho:
+# Norte Magnético;//
+Este repositório conterá as versões do conteúdo publicado no domínio "nortemagnetico.com.br". Trata-se de um site estático, gerado com uso do framework Hugo (http://gohugo.io), cujo conteúdo também está replicado nos meus outros domínios:
 
 www.izaias.com.br | www.sembagagem.com.br | www.izaias.dev 
