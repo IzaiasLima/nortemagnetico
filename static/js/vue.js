@@ -769,7 +769,7 @@ var arrayMethods = Object.create(arrayProto);[
     var arguments$1 = arguments;
 
     // avoid leaking arguments:
-    // http://jsperf.com/closure-with-arguments
+    // https://jsperf.com/closure-with-arguments
     var i = arguments.length;
     var args = new Array(i);
     while (i--) {
@@ -4406,7 +4406,7 @@ var isBooleanAttr = makeMap(
   'truespeed,typemustmatch,visible'
 );
 
-var xlinkNS = 'http://www.w3.org/1999/xlink';
+var xlinkNS = 'https://www.w3.org/1999/xlink';
 
 var isXlink = function (name) {
   return name.charAt(5) === ':' && name.slice(0, 5) === 'xlink'
@@ -4495,8 +4495,8 @@ function stringifyClass (value) {
 /*  */
 
 var namespaceMap = {
-  svg: 'http://www.w3.org/2000/svg',
-  math: 'http://www.w3.org/1998/Math/MathML'
+  svg: 'https://www.w3.org/2000/svg',
+  math: 'https://www.w3.org/1998/Math/MathML'
 };
 
 var isHTMLTag = makeMap(
@@ -4555,7 +4555,7 @@ function isUnknownElement (tag) {
   }
   var el = document.createElement(tag);
   if (tag.indexOf('-') > -1) {
-    // http://stackoverflow.com/a/28210364/1070244
+    // https://stackoverflow.com/a/28210364/1070244
     return (unknownElementCache[tag] = (
       el.constructor === window.HTMLUnknownElement ||
       el.constructor === window.HTMLElement
@@ -6951,7 +6951,7 @@ var patch = createPatchFunction({ nodeOps: nodeOps, modules: modules });
 
 /* istanbul ignore if */
 if (isIE9) {
-  // http://www.matts411.com/post/internet-explorer-9-oninput/
+  // https://www.matts411.com/post/internet-explorer-9-oninput/
   document.addEventListener('selectionchange', function () {
     var el = document.activeElement;
     if (el && el.vmodel) {
@@ -7590,7 +7590,7 @@ function decode (html) {
  * HTML Parser By John Resig (ejohn.org)
  * Modified by Juriy "kangax" Zaytsev
  * Original code by Erik Arvidsson, Mozilla Public License
- * http://erik.eae.net/simplehtmlparser/simplehtmlparser.js
+ * https://erik.eae.net/simplehtmlparser/simplehtmlparser.js
  */
 
 // Regular Expressions for parsing tags and attributes
@@ -7668,7 +7668,7 @@ function parseHTML (html, options) {
           }
         }
 
-        // http://en.wikipedia.org/wiki/Conditional_comment#Downlevel-revealed_conditional_comment
+        // https://en.wikipedia.org/wiki/Conditional_comment#Downlevel-revealed_conditional_comment
         if (conditionalComment.test(html)) {
           var conditionalEnd = html.indexOf(']>');
 
